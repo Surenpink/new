@@ -1,1 +1,17 @@
-problem
+1.difference Http1.1 and 2
+HTTP1.1
+   Its uses plain text to encode and transmit data,
+   Its easy for humans to read and understand the data,
+   Its can be less efficient than a binary protocol,
+HHTP2
+   Iis uses a series of binary codes to encode and transmit
+   data rather than plain text.
+
+2.objects in javascript
+  booleans
+  numbers
+  strings
+  dates
+  arrays
+  functions
+ its a one of the key to work a javascript.
